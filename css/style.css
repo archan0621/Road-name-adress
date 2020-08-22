@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    width: 1200px;
+    height: 1000px;
+}
+.logo{
+    float: left;
+    width: 100px;
+    margin: 8px;
+    margin-left: 30px;         
+}
+.number{
+    margin: 10px;
+    margin-left: 140px;
+}
+.road{
+    margin-left: 140px;
+    width: 240px;
+}
+.adress{
+    width: 300px;
+}
+.detail{
+    width: 100px;
+}
+.search{
+   text-align: center;
+   font-size: 70px;
+   font-family: fantasy;
+   margin-top: 15px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{width: auto;}
